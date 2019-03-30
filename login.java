@@ -1,4 +1,7 @@
-public void main{
+public void main
+
+{
+{}
 
 
 int;
