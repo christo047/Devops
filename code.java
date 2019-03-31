@@ -1,3 +1,3 @@
 public void main{
-int
+int a;
 }
