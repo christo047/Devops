@@ -1,4 +1,4 @@
 public void main
 {
-int;
+int=10;
 }

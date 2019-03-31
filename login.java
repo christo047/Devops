@@ -4,6 +4,6 @@ public void main
 {}
 
 
-int;
+int=10;
 println("hello world")
 }
