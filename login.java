@@ -5,6 +5,6 @@ public void main
 
 
 int=10;
-b=30;
+b=50;
 println("hello world")
 }
